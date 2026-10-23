@@ -1,0 +1,22 @@
+[h1]UBOAT 2026.1 | SP/MP Load Order Manager (External Tool)[/h1]
+[b]Community-made external Windows utility for SP/MP load-order switching[/b]
+
+This is NOT an in-game UBOAT mod. It is an optional, editable BAT/PowerShell utility for automatically organizing local launcherdata and modlist.txt, with backups and restore. No administrator permissions, no network access, no game files modified.
+
+[b]Profiles:[/b] 49-mod Singleplayer | 47-mod Multiplayer
+
+[b]How to install:[/b]
+[olist]
+[*]Download and extract the ZIP from [url=INSERT_YOUR_RELEASE_URL]the official release page[/url].
+[*]Close UBOAT and its launcher completely.
+[*]Double-click UBOAT_LoadOrder_Manager.bat and select SP or MP.
+[*]Restart the UBOAT launcher, check the order, and start a NEW campaign.
+[/olist]
+
+[b]Important:[/b] Script modifies the local launcherdata/modlist.txt only after backing them up. It is an experimental workaround for launcher sorting, not an officially supported feature. Actual in-game compatibility of individual mods is not guaranteed.
+
+[b]Related collections:[/b]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825264904]Singleplayer mod collection (49)[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3824775264]Multiplayer mod collection (47)[/url]
+
+[b]Source code and release notes:[/b] [url=INSERT_YOUR_REPOSITORY_URL]Repository[/url]

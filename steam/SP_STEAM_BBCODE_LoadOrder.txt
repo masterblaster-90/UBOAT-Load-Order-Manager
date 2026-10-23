@@ -1,0 +1,58 @@
+[h2]📋 COMPLETE MOD LOAD ORDER | 49 MODS[/h2]
+[b]TOP → BOTTOM | OBEN → UNTEN[/b]
+
+[b]EN:[/b] In the UBOAT launcher, move each mod into this order from top to bottom. The list below is for display and [b]must not[/b] be pasted directly into modlist.txt.
+
+[b]DE:[/b] Alle Mods im UBOAT-Launcher von oben nach unten in dieser Reihenfolge sortieren. Diese Liste dient nur der Anzeige und darf [b]nicht[/b] unverändert in die modlist.txt eingefügt werden.
+
+[code]
+01. steam:2898164268  |  Shared Bundles for Entities
+02. steam:3743332401  |  Airforce
+03. steam:3744719470  |  Living Depths
+04. steam:3667323113  |  Expanded Whales
+05. steam:3667041413  |  Expanded Ice
+06. steam:3313392069  |  Expanded Buoys
+07. steam:3744970260  |  Always Load Sea Floor
+08. steam:3371390056  |  Projekt Bifrost
+09. steam:1974532797  |  Authentic Goods
+10. steam:2885519784  |  Historical Weight Adjust
+11. steam:3247807531  |  Kitchen Capacity Adjusted
+12. steam:3475433196  |  No More Free Food
+13. steam:2885272709  |  No More Cooks!
+14. steam:3265904990  |  Bigger Crew Limit
+15. steam:3073626885  |  Breathe Easier
+16. steam:3757814538  |  Klaus Graf's Skill Picker [2.0]
+17. steam:3369013033  |  Sleeping Officer Follower Fix
+18. steam:3456546812  |  No Crew Collisions
+19. steam:3514466237  |  Speed & Charge Overhaul
+20. steam:3806934448  |  Proper Ballast
+21. steam:3768412570  |  Type IX Flooding Fix
+22. steam:3802739194  |  Realistic repairs and malfunctions
+23. steam:3758192379  |  Shadow Zone
+24. steam:3758902752  |  Depth Charge Guesswork
+25. steam:3788921384  |  Alberich Research & Upgrade
+26. steam:3761081574  |  Historical Weather Overhaul
+27. steam:3780333567  |  Seakeeping
+28. steam:3798112566  |  Hull Roll
+29. steam:3729673507  |  Nose Down
+30. steam:3817911180  |  Hull Pitch
+31. steam:3814892328  |  Sea Spray Plus
+32. steam:3816694902  |  Wind and Waves
+33. steam:3594015485  |  Die Torpedokrise
+34. steam:3569145448  |  Better Vanilla Pattern Torpedos
+35. steam:3820925973  |  Calmer Explosion Effect
+36. steam:3460665030  |  Allow Tonnage Before Patrol Area
+37. steam:3737722003  |  Immersive Freighter Manifest
+38. steam:3342143865  |  World War Radio
+39. steam:1921222481  |  Grey wolves texture pack
+40. steam:3306074431  |  F.A.U.II Historical Graphics Pack
+41. steam:1981227802  |  Historical loading screens (2024.1)
+42. steam:2096952547  |  More Accurate Bearing Markers
+43. steam:2471078847  |  More Accurate Periscope Sights
+44. steam:3365420803  |  Realistic Binocular Sight
+45. steam:3337575348  |  No Voices Spoilers
+46. steam:2458374231  |  Remove Misc Icons
+47. steam:3668838649  |  No Highlight Border
+48. steam:3680165120  |  Section View Expansion
+49. steam:3692376877  |  Followers Guaranteed
+[/code]

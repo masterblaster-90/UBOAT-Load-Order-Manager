@@ -1,0 +1,98 @@
+[h1]⚓ UBOAT 2026.1 | Co-op Multiplayer & Realism [MP][/h1]
+[b]MP COLLECTION | 47 MODS[/b]
+
+[h2]🇬🇧 ENGLISH[/h2]
+47 mods for cooperative U-boat operations: crew systems, ship handling, ballast, repairs, torpedoes, navigation, graphics and sound. Built around Uboats: Coop Multiplayer.
+
+[h2]🇩🇪 DEUTSCH[/h2]
+47 Mods fuer kooperative U-Boot-Einsaetze: Besatzung, Fahrverhalten, Ballast, Reparaturen, Torpedos, Navigation, Grafik und Sound. Mit Uboats: Coop Multiplayer.
+
+[hr]
+[h2]⚡ AUTOMATIC LOAD ORDER / AUTOMATISCHE LADE-REIHENFOLGE[/h2]
+[b]Optional Windows tool:[/b] [url=YOUR_PUBLIC_TOOL_DOWNLOAD_URL]UBOAT Load Order Manager v1.1 – ZIP & source code[/url]
+
+[b]EN – Quick installation[/b]
+[olist]
+[*]Subscribe to the complete collection and finish Steam downloads.
+[*]Open the UBOAT launcher once to register mods, then [b]fully close[/b] the game and launcher.
+[*]Download/extract the ZIP, then double-click [b]Switch_to_MP.bat[/b] (or use the manager's BAT menu).
+[*]Start UBOAT through Steam, verify the actual launcher order and start a [b]new[/b] campaign.
+[/olist]
+
+[b]DE – Schnellinstallation[/b]
+[olist]
+[*]Alle Mods abonnieren und Steam-Downloads abschliessen.
+[*]Launcher einmal oeffnen, damit alle Mods registriert werden. Spiel und Launcher [b]vollstaendig schliessen[/b].
+[*]ZIP entpacken, [b]Switch_to_MP.bat[/b] doppelklicken (oder das BAT-Menue nutzen).
+[*]UBOAT normal starten, Reihenfolge pruefen und eine [b]neue[/b] Kampagne beginnen.
+[/olist]
+
+[b]Manual / Manuell:[/b] Mods im Launcher aktivieren und von oben nach unten exakt wie unten per Drag-and-drop sortieren. Steam-Collection-Reihenfolge ist nicht automatisch die Launcher-Reihenfolge.
+
+[b]Safety / Sicherheit:[/b] Das inoffizielle Tool bearbeitet nur [i]launcherdata[/i] und [i]modlist.txt[/i], sichert beide vorher unter [i]%USERPROFILE%\AppData\LocalLow\Deep Water Studio\UBOAT\LoadOrderBackups[/i] und bietet Wiederherstellung im Menue. Keine Adminrechte, kein Mod-Download. Backups der Spielstaende anlegen; Erfolg im Launcher kontrollieren.
+
+[h3]⚠️ MP COMPATIBILITY / KOMPATIBILITAET[/h3]
+EN: The co-op mod is experimental. Use the same game/mod versions and order on every PC; start on one shared U-boat. Historical Weather Overhaul and Airforce are excluded. Seakeeping remains for testing, but Weather Overhaul may be downloaded as its dependency: leave it [b]disabled[/b] in MP.
+DE: Koop ist experimentell. Gleiche Versionen/Reihenfolge bei allen Spielern, zu Beginn ein gemeinsames U-Boot. Historical Weather Overhaul und Airforce bleiben deaktiviert; Seakeeping nur testweise, Weather Overhaul trotz Workshop-Abhaengigkeit deaktivieren.
+
+[hr]
+[h2]🔗 RELATED COLLECTION / ANDERE KOLLEKTION[/h2]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3825264904]UBOAT 2026.1 | Historical Realism & Immersion [SP][/url]
+
+[h2]📋 LOAD ORDER | 47 MODS[/h2]
+[b]TOP → BOTTOM / OBEN → UNTEN[/b]
+EN/DE: Names are for identification; these annotated lines are [b]not[/b] valid content for modlist.txt. / Namen dienen der Identifikation; diese kommentierten Zeilen gehoeren [b]nicht[/b] direkt in die modlist.txt.
+
+[code]
+01. steam:3744719470  |  Living Depths
+02. steam:3667323113  |  Expanded Whales
+03. steam:3667041413  |  Expanded Ice
+04. steam:3313392069  |  Expanded Buoys
+05. steam:3744970260  |  Always Load Sea Floor
+06. steam:3371390056  |  Projekt Bifrost
+07. steam:1974532797  |  Authentic Goods
+08. steam:2885519784  |  Historical Weight Adjust
+09. steam:3247807531  |  Kitchen Capacity Adjusted
+10. steam:3475433196  |  No More Free Food
+11. steam:2885272709  |  No More Cooks!
+12. steam:3265904990  |  Bigger Crew Limit
+13. steam:3073626885  |  Breathe Easier
+14. steam:3757814538  |  Klaus Graf's Skill Picker [2.0]
+15. steam:3369013033  |  Sleeping Officer Follower Fix
+16. steam:3456546812  |  No Crew Collisions
+17. steam:3514466237  |  Speed & Charge Overhaul
+18. steam:3806934448  |  Proper Ballast
+19. steam:3768412570  |  Type IX Flooding Fix
+20. steam:3802739194  |  Realistic repairs and malfunctions
+21. steam:3758192379  |  Shadow Zone
+22. steam:3758902752  |  Depth Charge Guesswork
+23. steam:3788921384  |  Alberich Research & Upgrade
+24. steam:3780333567  |  Seakeeping
+25. steam:3798112566  |  Hull Roll
+26. steam:3729673507  |  Nose Down
+27. steam:3817911180  |  Hull Pitch
+28. steam:3814892328  |  Sea Spray Plus
+29. steam:3816694902  |  Wind and Waves
+30. steam:3594015485  |  Die Torpedokrise
+31. steam:3569145448  |  Better Vanilla Pattern Torpedos
+32. steam:3820925973  |  Calmer Explosion Effect
+33. steam:3460665030  |  Allow Tonnage Before Patrol Area
+34. steam:3737722003  |  Immersive Freighter Manifest
+35. steam:3342143865  |  World War Radio
+36. steam:1921222481  |  Grey wolves texture pack
+37. steam:3306074431  |  F.A.U.II Historical Graphics Pack
+38. steam:1981227802  |  Historical loading screens (2024.1)
+39. steam:2096952547  |  More Accurate Bearing Markers
+40. steam:2471078847  |  More Accurate Periscope Sights
+41. steam:3365420803  |  Realistic Binocular Sight
+42. steam:3337575348  |  No Voices Spoilers
+43. steam:2458374231  |  Remove Misc Icons
+44. steam:3668838649  |  No Highlight Border
+45. steam:3680165120  |  Section View Expansion
+46. steam:3815285055  |  Uboats: Coop Multiplayer
+47. steam:3692376877  |  Followers Guaranteed
+[/code]
+
+[hr]
+[b]NOTE / HINWEIS:[/b] Community-curated and experimental. Not certified as conflict-free; updates may require adjustments. / Nicht abschliessend auf Konfliktfreiheit getestet; Updates koennen Anpassungen erfordern.
+[b]⚓ GOOD HUNTING, KALEUN![/b]

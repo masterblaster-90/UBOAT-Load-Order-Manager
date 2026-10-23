@@ -1,0 +1,30 @@
+[h3]⚡ AUTOMATIC LOAD ORDER – WINDOWS TOOL[/h3]
+No need to drag 49/47 mods manually. The optional [b]UBOAT Load Order Manager[/b] switches SP/MP profiles by changing the local UBOAT launcher order and modlist.txt, with automatic backups.
+
+[b]Download ZIP:[/b] [url=YOUR_PUBLIC_TOOL_DOWNLOAD_URL]UBOAT Load Order Manager v1.1 (Windows)[/url]
+
+[olist]
+[*]Subscribe to all mods in this collection and wait for Steam downloads.
+[*]Open the UBOAT launcher once to register the mods, then [b]completely close the game and launcher[/b].
+[*]Download and extract the ZIP into a normal folder. Do not start the files inside the ZIP.
+[*]Double-click [b]Switch_to_SP.bat[/b] or [b]Switch_to_MP.bat[/b], depending on the collection. Alternatively open [b]UBOAT_LoadOrder_Manager.bat[/b] and select a profile.
+[*]Start UBOAT normally through Steam. Verify the enabled mods and order in the launcher; use a fresh campaign.
+[/olist]
+
+[b]Safety:[/b] Backups are created in [i]%USERPROFILE%\AppData\LocalLow\Deep Water Studio\UBOAT\LoadOrderBackups[/i]. Restore from the manager menu if needed. The script is open source, does not require administrator privileges, and does not download or install mods. The workaround is community-developed and has not been officially endorsed by the game's developers.
+
+[hr]
+[h3]⚡ AUTOMATISCHE LADE-REIHENFOLGE – WINDOWS-TOOL[/h3]
+Mit dem optionalen [b]UBOAT Load Order Manager[/b] kannst du SP und MP automatisch sortieren, ohne 49/47 Mods einzeln zu verschieben. Das Tool erstellt vor jeder Änderung Backups.
+
+[b]ZIP herunterladen:[/b] [url=YOUR_PUBLIC_TOOL_DOWNLOAD_URL]UBOAT Load Order Manager v1.1 (Windows)[/url]
+
+[olist]
+[*]Alle Mods der Kollektion abonnieren und die Steam-Downloads abschließen.
+[*]Den UBOAT-Launcher einmal öffnen, damit die Mods registriert werden. Anschließend [b]Spiel und Launcher vollständig beenden[/b].
+[*]ZIP herunterladen und in einen normalen Ordner entpacken, nicht direkt aus dem Archiv starten.
+[*]Für diese Kollektion [b]Switch_to_SP.bat[/b] bzw. [b]Switch_to_MP.bat[/b] doppelklicken; alternativ das Auswahlmenü [b]UBOAT_LoadOrder_Manager.bat[/b] verwenden.
+[*]UBOAT normal über Steam starten, aktive Mods und Lade-Reihenfolge kontrollieren und eine neue Kampagne beginnen.
+[/olist]
+
+[b]Sicherung:[/b] Backups liegen unter [i]%USERPROFILE%\AppData\LocalLow\Deep Water Studio\UBOAT\LoadOrderBackups[/i] und können im Tool-Menü wiederhergestellt werden. Das Skript benötigt keine Administratorrechte, lädt keine Mods herunter und ist ein inoffizieller Community-Workaround.

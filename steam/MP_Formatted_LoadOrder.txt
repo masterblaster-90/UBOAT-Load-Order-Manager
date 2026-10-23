@@ -1,0 +1,47 @@
+01. steam:3744719470  |  Living Depths
+02. steam:3667323113  |  Expanded Whales
+03. steam:3667041413  |  Expanded Ice
+04. steam:3313392069  |  Expanded Buoys
+05. steam:3744970260  |  Always Load Sea Floor
+06. steam:3371390056  |  Projekt Bifrost
+07. steam:1974532797  |  Authentic Goods
+08. steam:2885519784  |  Historical Weight Adjust
+09. steam:3247807531  |  Kitchen Capacity Adjusted
+10. steam:3475433196  |  No More Free Food
+11. steam:2885272709  |  No More Cooks!
+12. steam:3265904990  |  Bigger Crew Limit
+13. steam:3073626885  |  Breathe Easier
+14. steam:3757814538  |  Klaus Graf's Skill Picker [2.0]
+15. steam:3369013033  |  Sleeping Officer Follower Fix
+16. steam:3456546812  |  No Crew Collisions
+17. steam:3514466237  |  Speed & Charge Overhaul
+18. steam:3806934448  |  Proper Ballast
+19. steam:3768412570  |  Type IX Flooding Fix
+20. steam:3802739194  |  Realistic repairs and malfunctions
+21. steam:3758192379  |  Shadow Zone
+22. steam:3758902752  |  Depth Charge Guesswork
+23. steam:3788921384  |  Alberich Research & Upgrade
+24. steam:3780333567  |  Seakeeping
+25. steam:3798112566  |  Hull Roll
+26. steam:3729673507  |  Nose Down
+27. steam:3817911180  |  Hull Pitch
+28. steam:3814892328  |  Sea Spray Plus
+29. steam:3816694902  |  Wind and Waves
+30. steam:3594015485  |  Die Torpedokrise
+31. steam:3569145448  |  Better Vanilla Pattern Torpedos
+32. steam:3820925973  |  Calmer Explosion Effect
+33. steam:3460665030  |  Allow Tonnage Before Patrol Area
+34. steam:3737722003  |  Immersive Freighter Manifest
+35. steam:3342143865  |  World War Radio
+36. steam:1921222481  |  Grey wolves texture pack
+37. steam:3306074431  |  F.A.U.II Historical Graphics Pack
+38. steam:1981227802  |  Historical loading screens (2024.1)
+39. steam:2096952547  |  More Accurate Bearing Markers
+40. steam:2471078847  |  More Accurate Periscope Sights
+41. steam:3365420803  |  Realistic Binocular Sight
+42. steam:3337575348  |  No Voices Spoilers
+43. steam:2458374231  |  Remove Misc Icons
+44. steam:3668838649  |  No Highlight Border
+45. steam:3680165120  |  Section View Expansion
+46. steam:3815285055  |  Uboats: Coop Multiplayer
+47. steam:3692376877  |  Followers Guaranteed
